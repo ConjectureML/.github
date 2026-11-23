@@ -9,3 +9,4 @@ said solution
 
 # Mirzett's take
 
+Just because something works well doesn’t mean there isn’t room for improvement. I believe that if you can find a little bit of performance in every moving part you’ll get big results.
